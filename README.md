@@ -2,10 +2,10 @@
 
 ### About me
 
-- 🌱 I'm an engineer with a strong desire to learn and improve.
+- 🌱 I'm an Engineer with a strong passion for coding.
 - 🔭 I'm currently learning the MERN Stack as well as brushing up my problem solving skills. 
 - 🥅 2021 Goals: Contribute to Open Source projects as well as learn new things along the way.
-- ⚡
+- ⚡ Fun Fact: I like learning difficult things.
 
 
 ### Languages and Tools:
@@ -13,7 +13,7 @@
 <p align="center">
 <br/>
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img alt="Java" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img alt="CPP" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,7 +35,7 @@
 <img  src="" width="48%" >
 <br>
 
-### Contact with me
+## Connect with me
 
 <div align="center">
   
