@@ -31,8 +31,7 @@
 
 ## 🏆 Github Status
 
-<img  src="" width="48%" align="right" >
-<img  src="" width="48%" >
+[![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharth-bhatnagar&count_private=true&show_icons=true&theme=algolia)](https://github.com/siddharth-bhatnagar/github-readme-stats)
 <br>
 
 ## Connect with me
