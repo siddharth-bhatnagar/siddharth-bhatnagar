@@ -32,6 +32,7 @@
 ## 🏆 Github Status
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharth-bhatnagar&count_private=true&show_icons=true&theme=algolia)](https://github.com/siddharth-bhatnagar/github-readme-stats)
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-bhatnagar&theme=algolia" width="48%" >
 <br>
 
 ## Connect with me
