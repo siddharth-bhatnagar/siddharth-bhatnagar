@@ -5,7 +5,7 @@
 - 🌱 I'm an Engineer with a strong passion for coding.
 - 🔭 I'm currently learning the MERN Stack as well as brushing up my problem solving skills. 
 - 🥅 2021 Goals: Contribute to Open Source projects as well as learn new things along the way.
-- ⚡ Fun Fact: I like learning difficult things.
+- ⚡ Fun Fact: I love playing football⚽
 
 
 ### Languages and Tools:
@@ -42,7 +42,7 @@
   
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/siddharth-bhatnagar)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siddharth-bhatnagar-msit/)
-<!--[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]()>
+
 <br />
 
 ![visitors]()
