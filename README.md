@@ -45,5 +45,5 @@
 
 <br />
 
-![visitors]()
+
 </div>
