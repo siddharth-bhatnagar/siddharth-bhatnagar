@@ -1,6 +1,6 @@
 ## Hi there folks, I'm Siddharth 👋
 
-![dadsds](https://user-images.githubusercontent.com/56535991/119233557-5babf400-bb47-11eb-8371-0a0eec245368.gif)
+![ef16e4e68b0d3cb81e6bb8a8c3258d7e](https://user-images.githubusercontent.com/56535991/119233617-944bcd80-bb47-11eb-95d3-1d0ef567969d.gif)
 
 ### About me
 
