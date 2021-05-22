@@ -2,10 +2,11 @@
 
 ### About me
 
-- 🌱 I'm an Engineer with a strong passion for coding.
+- 🌱 Aspiring Software Engineer.
 - 🔭 I'm currently learning web technologies as well as brushing up my problem solving skills. 
 - 🥅 2021 Goals: Contribute to Open Source projects as well as learn new things along the way.
 - ⚡ Fun Fact: I love playing football⚽
+
 
 
 ### Languages and Tools:
