@@ -1,13 +1,13 @@
 ## Hi there folks, I'm Siddharth 👋
 
+![1584024060](https://user-images.githubusercontent.com/56535991/119232694-c5c29a00-bb43-11eb-9b3c-5c4dcf5747b3.gif)
+
 ### About me
 
 - 🌱 Aspiring Software Engineer.
 - 🔭 I'm currently learning web technologies as well as brushing up my problem solving skills. 
 - 🥅 2021 Goals: Contribute to Open Source projects as well as learn new things along the way.
 - ⚡ Fun Fact: I love playing football⚽
-
-
 
 ### Languages and Tools:
 
