@@ -37,14 +37,17 @@
 <!--<img  src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-bhatnagar&theme=algolia" width="48%" > -->
 <br>
 
-## Connect with me
+## Connect with me ✉
 
 <div align="center">
   
-[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/siddharth-bhatnagar)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siddharth-bhatnagar-msit/)
-
+[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/siddharth-bhatnagar)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/siddharth-bhatnagar-msit/)&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:siddharthxone@gmail.com?subject=Hello%20Siddharth,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/siddharthxone)
 <br />
 
 
 </div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=siddharth-bhatnagar.siddharth-bhatnagar)
