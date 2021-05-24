@@ -36,8 +36,8 @@
 <br>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=siddharth-bhatnagar&count_private=true&show_icons=true&theme=algolia" width="40%" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-bhatnagar&theme=algolia" width="40%" >
+&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=siddharth-bhatnagar&count_private=true&show_icons=true&theme=algolia" width="48%" >&nbsp;&nbsp;&nbsp;
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-bhatnagar&theme=algolia" width="48%" >
 </div>
 
 <br>
